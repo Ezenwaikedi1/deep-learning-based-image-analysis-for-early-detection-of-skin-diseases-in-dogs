@@ -12,17 +12,9 @@ The dataset uses a Dog Skin Disease Dataset containing 438 images categorized in
 
 - Fungal Infections
 
-![image](https://github.com/user-attachments/assets/f65fffe3-e340-44f5-98cd-2e77a876f301)
-
 - Bacterial Dermatosis
 
-  ![image](https://github.com/user-attachments/assets/d9f7dbec-1c45-4d6b-8a9d-cabb316d847e)
-
-
 - Hypersensitivity Dermatitis
-
-![image](https://github.com/user-attachments/assets/8bb40b4f-fa59-4d3e-9638-ef6841a71bf1)
-
 
 - Healthy
 

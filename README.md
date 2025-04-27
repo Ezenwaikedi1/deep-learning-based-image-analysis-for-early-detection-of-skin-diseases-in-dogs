@@ -6,6 +6,8 @@ This project builds a deep learning pipeline to detect various dog skin diseases
 
 ## Dataset 
 
+link to the dataset: https://www.kaggle.com/datasets/yashmotiani/dogs-skin-disease-dataset
+
 The dataset uses a Dog Skin Disease Dataset containing 438 images categorized into 4 classes:
 
 - Fungal Infections
